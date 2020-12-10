@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor
+@NoArgsConstructor   //1111111111111111111
 @AllArgsConstructor
 public class Item {
 	private Integer id;
